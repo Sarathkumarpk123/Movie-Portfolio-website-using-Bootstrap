@@ -1,0 +1,55 @@
+#section2
+{
+    background-image: url(backgroundsection2.jpg);
+    background-position: center;
+    background-size: cover;
+
+}
+#section4
+{
+    background-image: url(backgroundimgsec4.jpg);
+    background-position: center;
+    background-size: cover;
+
+}
+#section1
+{
+    background-image: url(section1back.jpg);
+    background-position: center;
+    background-size: cover;
+
+}
+#section3
+{
+    background-image: url(headerback.jpg);
+    background-position: center;
+    background-size: cover;
+
+}
+header
+{
+    background-image: url(headerback.jpg);
+    background-position: center;
+    background-size: cover;  
+}
+#section34
+{
+    background-image: url(section34background.jpg);
+    background-position: center;
+    background-size: cover;
+
+}
+
+.card-img-top{
+    transition: all 0.2;
+}
+.card-img-top:hover{
+    transform: scale(101%);
+}
+
+.anim{
+    transition: all 0.2;
+}
+.anim:hover{
+    transform: scale(101%);
+}
